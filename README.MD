@@ -34,5 +34,5 @@ Tudo isso é processado em **poucos milissegundos**, reduzindo drasticamente o t
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/SEU-USUARIO/ifood-ai-feedback-service.git](https://github.com/SEU-USUARIO/ifood-ai-feedback-service.git)
+git clone [https://github.com/jailson-silva32/ifood-ai-feedback-service.git](https://github.com/SEU-USUARIO/ifood-ai-feedback-service.git)
 cd ifood-ai-feedback-service
